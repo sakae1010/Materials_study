@@ -1,0 +1,34 @@
+* text=auto
+
+# === Unreal assets (stored directly in git, no LFS)
+*.uasset binary
+*.umap   binary
+*.ubulk  binary
+*.uexp   binary
+
+# === Source art / media
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.tga  binary
+*.bmp  binary
+*.psd  binary
+*.exr  binary
+*.hdr  binary
+*.tif  binary
+*.tiff binary
+*.dds  binary
+*.fbx  binary
+*.obj  binary
+*.blend binary
+*.abc  binary
+*.glb  binary
+*.usd  binary
+*.usdz binary
+*.wav  binary
+*.mp3  binary
+*.ogg  binary
+*.mp4  binary
+*.mov  binary
+*.zip  binary
+*.7z   binary
